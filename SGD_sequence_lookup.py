@@ -7,7 +7,7 @@
 # length of flanking region (choose from 0.5kb, 1.0kb, 2.0kb, or none if no flanking regions are required)
 # do not forget to close the excel file before running the script!
 
-file_name = ".xlsx"
+file_name = "xxxx.xlsx"
 
 import csv
 from openpyxl import load_workbook

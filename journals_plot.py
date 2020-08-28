@@ -1,14 +1,17 @@
+# make sure to have the NCBI_scrape_jour.py file in the same folder
+# fuzzywuzzy has to be installed separately (https://github.com/seatgeek/fuzzywuzzy)
 from NCBI_scrape_jour import NCBI_scrape_jour
 from fuzzywuzzy import fuzz
 import numpy as np
 import matplotlib.pyplot as plt
 
+# list of interesting MIA compounds
 MIA = ["ajmalicine","ajmaline","akuammine","alstonine","arbophyllidine","burnamine","cadambine",\
     "camptothecin","conolidine","corynanthine","ibogaine","irinotecan","lochnerinine","melotenuine D","mitragynine",\
     "mitraphylline","pericine","psychollatine","umbellatine","quinidine","quinine","rauwolscine","reserpine",\
     "rhazyaminine","serpentine","tabersonine","topotecan","vallesiachotamine","vinblastine","vincamine","vincristine",\
     "vindesine","vinflunine","vinorelbine","yohimbine"]
-
+# retrieve the journal title of all found publications for each MIA in the list
 MIA_jour = {}
 MIA_found, count = [], []
 for i in range(len(MIA)):
@@ -20,7 +23,8 @@ for i in range(len(MIA)):
         MIA_found.append(MIA[i])
         count.append(cnt)
     print("Downloaded journals of " + MIA[i])
-
+# categorise the journal title list of each MIA compound
+# lists of journal keywords are available on the GitHub page in the Journal_kewords folder
 j_key = {}
 cat = ["general","medical","plant","microbial","chemical"]
 for i in range(len(cat)):
@@ -47,12 +51,12 @@ for i in MIA_jour:
         if out:
             data_plot[5,MIA_found.index(i)] += 1
 print("Counting complete")
-
+# normalise the categorisation to 100%
 data_plot_per = np.zeros((len(cat)+1,len(MIA_found)))
 for i in range(len(cat)+1):
     for j in range(len(MIA_found)):
         data_plot_per[i,j] = data_plot[i,j]/np.sum(data_plot[:,j])*100
-
+# plotting categorisation of each MIA in an overview bar chart
 cat.append("other")
 r = range(len(MIA_found))
 plt.figure(figsize=(18,8))
