@@ -1,0 +1,437 @@
+medical
+medicine
+therapy
+cancer
+oncology
+pharmacology
+aids
+disease
+neuro
+melanoma
+drug
+new drugs
+blood
+hematology
+haematology
+pharmaceutics
+lymphoma
+pediatrics
+clinical
+practice
+pain
+pharmaceutical
+dermatology
+surgery
+physiology
+radiation
+mutation
+mutagenesis
+apoptosis
+human
+anticancer
+urology
+immunology
+tissue
+allergy
+neurology
+chemotherapy
+brain
+neuroscience
+syndromes
+dental
+tumor
+leukemia
+phytotherapy
+veterinary
+immunopharmacology
+anatomy
+biomedicine
+ethnopharmacology
+medica
+pharmaceutica
+pharmacy
+biomedical
+haemostasis
+medicina
+neurobiology
+controlled release
+natural medicines
+liposome
+autophagy
+haematologica
+cardiology
+mycoses
+pharmacological
+thyroid
+oncologica
+pharmacologica
+the oncologist
+neurosurgery
+health
+neurotherapeutics
+biomedical
+oncotarget
+thrombosis
+neuroreport
+animal
+neuroinflammation
+pediatric
+nursing
+nanomedicine
+signaling
+jci insight
+therapeutics
+ear, nose, & throat journal
+drug resistance
+drugs
+radiology
+oncogene
+cureus
+motility
+cochrane
+laryngoscope
+physicians
+onkologie
+gynaecology
+transplantation
+antibiotics
+nerve
+neoplasma
+paediatrics
+endocrine
+experimental biology
+carcinogenesis
+hormone
+disorders
+the lancet
+pharmacotherapy
+immunotherapy
+hematotherapy
+osteopathic
+digestive
+cytobios
+sangre
+gynecology
+medicinski
+pneumologie
+cell proliferation
+stomatology
+orthodontics
+clinica
+blut
+neurochemical
+schmerz
+organs
+klinische
+onkologii
+cell cloning
+transfusion
+andrology
+clinic
+fertility
+rheumatic
+hygiene
+cases journal
+healthcare
+nervous system
+ons connect
+bmj case reports
+neurogenetics
+pediatria
+in vivo
+prostaglandins & other lipid mediators
+anesthesia
+ophthalmology
+heart
+gynecologic
+sentinel event alert
+laryngology
+farmacia
+ gastroenterology
+neurotrauma
+radiologica
+neurologia
+meditsiny
+urologica
+oral
+peadiatrica
+theriogenology
+chirurgica
+jama
+respiratory
+immunoassay
+chest
+neurological
+hirnforschung
+nowotwory
+embryologie
+medizinische
+krebsforschung
+minerva pediatrica
+nervenheilkunde
+il cancro
+harefuah
+anatomie
+medizin
+diseases of children
+medicale
+neuropathologica
+neurologique
+neurologie
+ophthalmological
+chirurgia
+pediatrie
+gan
+reticuloendothelial
+diabetologia
+meditsina
+chirurgie
+haematological
+endocrinology
+neuropatologia
+cytology
+cytometry
+diabetes
+cachexia
+physiological
+aana
+anesthesiology
+nutrition
+pharmacogenetics
+reproduction
+therapeutic targets
+histology
+acta paediatrica
+rheumatology
+geriatrics
+infection and immunity
+agents and actions
+thoracic
+current eye research
+sarcoma
+the journal of ect
+thorax
+virologie
+surgical
+circulation
+hereditas
+arthritis
+acta anatomica
+radiologia
+dermatologie
+acta academiae medicinae sinicae
+ophtalmologie
+anaesthesia
+urologia
+acta odontologica
+hepatology
+acta ophthalmologica
+transfusionsmedizin
+cytobiologica
+medycyny
+frauenheilkunde
+medecine
+clinique
+biological response modifiers
+renal failure
+onkologiia
+acta neurochirurgica
+acta endocrinologica
+cardiologie
+pharmacobio-dynamics
+carcinogenic
+immunobiology
+ageing
+stem cell
+atrial fibrillation
+cardiologia
+electrophysiology
+cardiovascular
+resuscitation
+kardiologie
+die pharmazie
+biopharmaceutics
+pharmacokinetics
+ugeskrift for laeger
+vnitrni lekarstvi
+farmakologiia
+cor et vasa
+archives des maladies du coeur et des vaisseaux
+giornale italiano di cardiologia
+kinderarztliche praxis
+arzneimittel-forschung
+archiv der pharmazie
+kardiologia
+cardioangiologica
+lakartidningen
+il farmaco
+epilepsy
+phytoremediation
+geneeskunde
+forensic
+neurophysiology
+microvascular
+neurotoxicology
+teratology
+ayu
+addiction
+critical care
+bmc genomicssomatosensory
+neural transmission
+neurocytology
+alcohol
+seizure
+physiologica
+morfologiia
+neurochemistry
+wildlife
+psychiatry
+xenobiotica
+anestesiologica
+synapse
+vision
+sleep
+jacep
+mental deficiency
+biophysiology
+pharmaceutisch
+pharmacie
+epilepsianervnaia sistema
+behavioral
+tsitologiia
+narcotics
+endocrinologia
+kriminologie
+agressologie
+neuropharmacology
+psychological
+the hospital
+medico-chirurgical
+physiologie
+scalpel
+hearing
+nervosa
+dose-response
+pharmaceutiques
+arrhythmia
+psychopharmacology
+neuropsychopharmacology
+substance abuse
+nida research monograph
+pharmacodynamie
+fitoterapia
+physiologische
+pharmazeutische
+mortality
+gut
+protoplasma
+strahlentherapie
+krebsarzt
+biophysical
+vrachebnoe delo
+growth
+diseases
+cutis
+stress
+stomatologica
+urological
+endothelial
+metastasis
+cytokine
+buccale
+shock
+practitioner
+medicin
+anatomical
+virology
+genetics
+hypertension
+clinicoeconomics
+antioxidants
+neurotoxicity
+schizophrenia
+medicinal
+neuroimmunomodulation
+behavioural
+nervnoi
+carcinogen
+psychoneuroendocrinology
+biogerontology
+neuroendocrinology
+vertex
+psiquiatria
+receptors
+atherosclerosis
+psychiatric
+psychiatrica
+neurobiologiae
+meditsinskoi
+farmaceutico
+parasitology
+anestesiologia
+ginekologiia
+prostaglandins
+leukotrienes
+virusologii
+signals
+neuropeptides
+zabolevaniia
+somatosensory
+fiziologicheskii
+histochemica
+farmacie
+neonate
+anatomische
+contraception
+toxicologia
+maladies
+nevropatologii
+endokrinologii
+gastroenterologie
+dermatological
+morphologica
+oftalmologicheskii
+hygienic
+terapevticheskii
+physiologia
+headache
+allgemeinmedizin
+medico-psychologiques
+radiotherapia
+anatomischer
+l'anesthesiologie
+paraplegia
+fisiologia
+stroke
+lekarske listy
+laryngologie
+neural
+immunologiae
+physician
+parasitologie
+otorinolaringologii
+electrocardiology
+medicas
+endokrynologia
+orvosi hetilap
+therapeutische
+meditsinskoi
+gesundheitswesen
+arztliche
+nervenarzt
+pharmakologie
+fiziolohichnyi
+d'endocrinologie
+ginecologica
+stomatologie
+oftalmologia
+psychobiology
+neurobiologia
+atherosclerosis
+therapeutique
+chirurgiae
+neuropsihijatrija
+landarzt
+nervenkrankheiten
+anaesthetists'
+anaesthesiologica
