@@ -75,7 +75,7 @@ print(key_abun)
 j_key = {}
 cat = ["general","medical","plant","microbial","chemical"]
 for i in range(len(cat)):
-    jour = open(r"Journal_keywords\keywords_"+cat[i]+"_journals.txt","r").readlines()
+    jour = open(r"Journal_keywords/keywords_"+cat[i]+"_journals.txt","r").readlines()
     for k in range(len(jour)):
         j_key.setdefault(cat[i],[]).append(jour[k].replace("\n",""))
 
